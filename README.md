@@ -10,7 +10,7 @@ As seguintes ferramentas foram usadas na construção do projeto::
 -  **[Yarn](https://yarnpkg.com)**
 -  **[TypeOrm](https://typeorm.io/#/)**
 -  **[Express](https://expressjs.com/pt-br/)**
--  **[NodeMailer](https://nodemailer.com/about/)**
+
 
 
 <br/>
