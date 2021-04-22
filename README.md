@@ -23,7 +23,7 @@ Obs: Banco de dados é o Sqlite3, caso queira alterar, configure o arquivo ormco
 
 ```bash
 - git clone https://github.com/GCarin1/ChatAutomatico.git
-- cd NPS
+- cd ChatAutomatico
 ```
 
 Instalando dependências
