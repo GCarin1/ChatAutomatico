@@ -1,5 +1,5 @@
 # ChatAutomatico
-Chat automático para sites, muito utilizado para atendimento.
+🚀 Chat automático para sites, muito utilizado para atendimento.🚀 
 ## 🛠 Tecnologias/Linguagens
 
 As seguintes ferramentas foram usadas na construção do projeto::
