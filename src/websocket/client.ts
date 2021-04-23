@@ -2,6 +2,7 @@ import { io } from '../http';
 import { ConnectionsService } from '../services/ConnectionsService';
 import { UsersService } from '../services/UsersService';
 import { MessagesService } from '../services/MessagesService';
+import { Socket } from 'socket.io';
 
 interface IParams {
   text: string;
@@ -50,6 +51,25 @@ io.on('connect', (socket) => {
       text,
       user_id
     });
+    const allMessages = await messagesService.listByUser(user_id);
+    socket.emit("client_first-access",allMessages);
 
+    const allUsers=await messagesService.listByUser(user_id);
+    io.emit("admin_list_all_users",allUsers)
   });
+  socket.on("client_send_to_admin",async params=>{
+    const{text,socket_admin_id}=params;
+    const socket_id=socket.id;
+    const {user_id}= await connectionsService.findBySocketID(socket_id);
+
+    const message =await messagesService.create({
+      text,
+      user_id,
+
+    });
+    io.to(socket_admin_id).emit("admin_receive_message",{
+      message,
+      socket_id,
+    })
+  })
 });
