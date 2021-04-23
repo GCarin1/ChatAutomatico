@@ -6,7 +6,7 @@ const routes=Router();
 
 const settingsController = new SettingsController();
 
-routes.post("/settings", settingsController.creat);
+routes.post("/settings", settingsController.create);
    
 
 
