@@ -9,7 +9,7 @@ As seguintes ferramentas foram usadas na construção do projeto::
 
 
 -  **[TypeScript](https://golang.org)**
--  **[NestJs](https://nestjs.com)**
+-  **[NodeJs](https://nodejs.org/en/)**
 -  **[Yarn](https://yarnpkg.com)**
 -  **[TypeOrm](https://typeorm.io/#/)**
 -  **[Express](https://expressjs.com/pt-br/)**
