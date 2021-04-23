@@ -77,7 +77,7 @@ Gerando a build (Script configurado no package.json)
 Depois que o merge da sua pull request ser feito, você pode deletar a sua branch. 
 ```
 ## 🐛Issue
-Sinta-se à vontade para registrar um novo problema com o respectivo título e descrição no repositório do Podcastr. Se você já encontrou uma solução para o seu problema, adoraria revisar sua solicitação de pull!
+Sinta-se à vontade para registrar um novo problema com o respectivo título e descrição no repositório do ChatAutomatico. Se você já encontrou uma solução para o seu problema, adoraria revisar sua solicitação de pull!
 
 
 ## 📝 Licença
