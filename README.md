@@ -90,4 +90,4 @@ Sinta-se à vontade para registrar um novo problema com o respectivo título e d
 Este projeto está sob a licença [MIT](./LICENSE).
 
 ---
-<h4 align=center>✨Sendo feito por <a href="https://www.linkedin.com/in/guilherme-carini/">Guilherme Carini ✨</a></a></h4>
+<h4 align=center>✨ Feito por <a href="https://www.linkedin.com/in/guilherme-carini/">Guilherme Carini ✨</a></a></h4>
