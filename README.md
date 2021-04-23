@@ -2,6 +2,8 @@
 🚀 Chat automático para sites, muito utilizado para atendimento.🚀
  <h1 align="center">
     <img alt="chat" title="chat" src="/src/img/img1.PNG"/>
+ <h1 align="center">
+    <img alt="chat" title="chat" src="/src/img/img2.PNG"/>
   
 ## 🛠 Tecnologias/Linguagens
 
