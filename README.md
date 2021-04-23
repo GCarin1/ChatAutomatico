@@ -1,5 +1,5 @@
 # ChatAutomatico
-Chat automático para sites, muito utilizado para atendimento.
+🚀 Chat automático para sites, muito utilizado para atendimento.🚀 
 ## 🛠 Tecnologias/Linguagens
 
 As seguintes ferramentas foram usadas na construção do projeto::
@@ -10,7 +10,7 @@ As seguintes ferramentas foram usadas na construção do projeto::
 -  **[Yarn](https://yarnpkg.com)**
 -  **[TypeOrm](https://typeorm.io/#/)**
 -  **[Express](https://expressjs.com/pt-br/)**
--  **[NodeMailer](https://nodemailer.com/about/)**
+
 
 
 <br/>
