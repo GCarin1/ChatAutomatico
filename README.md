@@ -2,6 +2,8 @@
 🚀 Chat automático para sites, muito utilizado para atendimento.🚀
  <h1 align="center">
     <img alt="chat" title="chat" src="/src/img/img1.PNG"/>
+ <h1 align="center">
+    <img alt="chat" title="chat" src="/src/img/img2.PNG"/>
   
 ## 🛠 Tecnologias/Linguagens
 
@@ -88,4 +90,4 @@ Sinta-se à vontade para registrar um novo problema com o respectivo título e d
 Este projeto está sob a licença [MIT](./LICENSE).
 
 ---
-<h4 align=center>✨Sendo feito por <a href="https://www.linkedin.com/in/guilherme-carini/">Guilherme Carini ✨</a></a></h4>
+<h4 align=center>✨ Feito por <a href="https://www.linkedin.com/in/guilherme-carini/">Guilherme Carini ✨</a></a></h4>
