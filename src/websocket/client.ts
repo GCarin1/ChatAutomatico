@@ -2,7 +2,7 @@ import { io } from '../http';
 import { ConnectionsService } from '../services/ConnectionsService';
 import { UsersService } from '../services/UsersService';
 import { MessagesService } from '../services/MessagesService';
-import { Socket } from 'socket.io';
+
 
 interface IParams {
   text: string;

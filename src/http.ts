@@ -4,8 +4,7 @@ import{Server,Socket}from 'socket.io';
 import "./database";
 import {routes} from "./routes"
 import path from 'path';
-import { View } from "typeorm/schema-builder/view/View";
-import { Repository } from "typeorm";
+
 
 const app = express();
 
