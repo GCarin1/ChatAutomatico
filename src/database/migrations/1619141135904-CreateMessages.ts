@@ -30,7 +30,6 @@ export class CreateMessages1619141135904 implements MigrationInterface {
                     name:"created_at",
                     type:"timestamp",
                     default: "now()",
-                
                 },
                ],
                foreignKeys: [
@@ -46,7 +45,6 @@ export class CreateMessages1619141135904 implements MigrationInterface {
             })
         );
     }
-
     public async down(queryRunner: QueryRunner): Promise<void> {
         await queryRunner.dropTable("message");
     }
